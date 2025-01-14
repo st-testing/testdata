@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TestReferenceLayer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ 3.71443877627055, 51.039319106491845 ] } },
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "Point", "coordinates": [ 3.724331439290462, 51.044225757748393 ] } },
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "Point", "coordinates": [ 3.734027037310067, 51.049949527424786 ] } }
+]
+}
